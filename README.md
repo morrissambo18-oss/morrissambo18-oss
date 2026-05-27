@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Morris Sambo 👋
 
-<!--
-**morrissambo18-oss/morrissambo18-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma in Information Technology  
+📍 South Africa  
+🌐 Interested in Mobile Apps, Networking, and Software Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- Python
+- SQL
+- Firebase
+- React Native
+- Networking (CCNA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects
+- HUSTLE HUB SA
+- Android TV App Project
+- Student & Business Systems
+
+## 📫 Contact
+- Email: morris.sambo18@gmail.com
+
+## ⚡ Fun Fact
+I enjoy building tech solutions that solve real-world South African problems.
