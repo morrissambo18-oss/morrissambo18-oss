@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Morris Sambo 👋</h1>
-<h3 align="center">IT Graduate | CCNA Certified | Mobile & Software Developer from South Africa 🇿🇦</h3>
+<h1 align="center">Hi there, I'm Morris Sambo </h1>
+<h3 align="center">IT Graduate | CCNA Certified | Mobile & Software Developer from South Africa</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+tech+solutions+for+real-world+problems;Mobile+Apps+%7C+Networking+%7C+Software+Development;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -11,18 +11,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **Diploma in Information Technology**
-- 📍 Based in **South Africa**
-- 📱 Passionate about **Mobile Apps, Networking, and Software Development**
-- 🌱 Currently building **HUSTLE HUB SA** and exploring **Android TV development**
-- 💬 Ask me about **Java, Firebase, React Native, and CCNA Networking**
-- ⚡ Fun fact: I enjoy building tech solutions that solve real-world South African problems
+- **Diploma in Information Technology**
+- Based in **South Africa**
+- Passionate about **Mobile Apps, Networking, and Software Development**
+- Currently building **HUSTLE HUB SA** and exploring **Android TV development**
+- Ask me about **Java, Firebase, React Native, and CCNA Networking**
+- Fun fact: I enjoy building tech solutions that solve real-world South African problems
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 | Project | Description |
 |---------|-------------|
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morrissambo18-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Morris's GitHub stats" height="170" />
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 <p align="left">
   <a href="mailto:morris.sambo18@gmail.com">
