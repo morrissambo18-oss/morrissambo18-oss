@@ -2,9 +2,8 @@
 
 **Software Developer — South Africa**
 
-I build production web applications and run the infrastructure they sit on. Currently a
-developer at **Route Monitoring (RF) (Pty) Ltd**, and in my final year of a Diploma in
-Information Technology at the Vaal University of Technology.
+I build production web applications and run the infrastructure they sit on, and I'm in my
+final year of a Diploma in Information Technology at the Vaal University of Technology.
 
 Most of my recent work is full-stack TypeScript — Next.js and React on the front,
 PostgreSQL and Supabase behind it, deployed on infrastructure I set up and maintain myself.
@@ -13,10 +12,10 @@ PostgreSQL and Supabase behind it, deployed on infrastructure I set up and maint
 
 ## Selected work
 
-### RM Training System · Route Monitoring *(private)*
+### Training management platform *(commercial, private repository)*
 
-A training registration and attendance platform used to manage operator certification
-records. Next.js 15 and React 19 on TypeScript, with QR-code attendance capture and Excel
+A registration and attendance system for managing training and certification records.
+Next.js 15 and React 19 on TypeScript, with QR-code attendance capture and spreadsheet
 export for compliance reporting.
 
 What I built and what it taught me:
@@ -37,15 +36,21 @@ What I built and what it taught me:
 - **Performance work grounded in measurement** — including reducing over-fetching so pages
   request only the rows they actually render.
 
-### Portfolio site
+### Portfolio and blog → [`portfolio`](https://github.com/morrissambo18-oss/portfolio)
 
-Next.js and TypeScript with Prisma over a relational database.
-→ [`portfolio`](https://github.com/morrissambo18-oss/portfolio)
+Not a static site — a content-managed one I wrote the CMS for. Next.js 16 and TypeScript
+with Prisma over PostgreSQL, an authenticated admin area for managing projects, posts and
+enquiries, markdown rendering, transactional email, dark mode, and generated sitemap and
+robots routes for SEO.
 
-### Shalem Holdings
+### CampusTutor VUT → [`campustutor-vut`](https://github.com/morrissambo18-oss/campustutor-vut)
 
-Business website for a digital solutions and event technology company. Built with Vite.
-→ [`shalem-holdings`](https://github.com/morrissambo18-oss/shalem-holdings)
+A peer tutoring concept connecting junior IT students with senior students who have already
+passed the module. Hand-written HTML and CSS.
+
+### Shalem Holdings → [`shalem-holdings`](https://github.com/morrissambo18-oss/shalem-holdings)
+
+Business website for a digital solutions and event technology company. React and Vite.
 
 ---
 
